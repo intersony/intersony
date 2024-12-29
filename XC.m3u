@@ -74,13 +74,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4K.png" group-title="央视频道",CCTV4K
-http://106.57.0.186:55555/udp/239.200.200.202:8784
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-http://106.57.0.186:55555/udp/239.200.201.181:4220
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-http://106.57.0.186:55555/udp/239.200.201.180:4220
-
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4K.png" group-title="央视频道",CCTV4K
 http://101.31.193.145:4022/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://101.31.193.145:4022/rtp/239.253.93.193:6371
