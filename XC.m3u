@@ -1,0 +1,921 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV1.png" group-title="央视频道",CCTV1
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000001/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000502/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV3.png" group-title="央视频道",CCTV3
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000003/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4.png" group-title="央视频道",CCTV4
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000503/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV5.png" group-title="央视频道",CCTV5
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000005/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV5_.png" group-title="央视频道",CCTV5+
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000507/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV6.png" group-title="央视频道",CCTV6
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000006/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV7.png" group-title="央视频道",CCTV7
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000504/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV8.png" group-title="央视频道",CCTV8
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000008/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000505/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV10.png" group-title="央视频道",CCTV10
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000506/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV11.png" group-title="央视频道",CCTV11
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000508/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV12.png" group-title="央视频道",CCTV12
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000509/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV13.png" group-title="央视频道",CCTV13
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000510/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV14.png" group-title="央视频道",CCTV14
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000511/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV15.png" group-title="央视频道",CCTV15
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000512/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV16.png" group-title="央视频道",CCTV16
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000016/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV17.png" group-title="央视频道",CCTV17
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000513/index.m3u8?
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV1.png" group-title="央视频道",CCTV1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV2.png" group-title="央视频道",CCTV2
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV3.png" group-title="央视频道",CCTV3
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4.png" group-title="央视频道",CCTV4
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV5.png" group-title="央视频道",CCTV5
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV5_.png" group-title="央视频道",CCTV5+
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV6.png" group-title="央视频道",CCTV6
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV7.png" group-title="央视频道",CCTV7
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV8.png" group-title="央视频道",CCTV8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV9.png" group-title="央视频道",CCTV9
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV10.png" group-title="央视频道",CCTV10
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV11.png" group-title="央视频道",CCTV11
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV12.png" group-title="央视频道",CCTV12
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV13.png" group-title="央视频道",CCTV13
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV14.png" group-title="央视频道",CCTV14
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV15.png" group-title="央视频道",CCTV15
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV16.png" group-title="央视频道",CCTV16
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV17.png" group-title="央视频道",CCTV17
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4K.png" group-title="央视频道",CCTV4K
+http://106.57.0.186:55555/udp/239.200.200.202:8784
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+http://106.57.0.186:55555/udp/239.200.201.181:4220
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+http://106.57.0.186:55555/udp/239.200.201.180:4220
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4K.png" group-title="央视频道",CCTV4K
+http://101.31.193.145:4022/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+http://101.31.193.145:4022/rtp/239.253.93.193:6371
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+http://101.31.193.145:4022/rtp/239.253.93.192:6370
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC动作电影.png" group-title="央视频道",CHC动作电影
+https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://117.190.144.101:1111/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+http://117.190.144.101:1111/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://117.190.144.101:1111/tsfile/live/1020_1.m3u8
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV1.png" group-title="央视频道",CETV1
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000046/index.m3u8?
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV2.png" group-title="央视频道",CETV2
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV4.png" group-title="央视频道",CETV4
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV1.png" group-title="央视频道",CETV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV2.png" group-title="央视频道",CETV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV4.png" group-title="央视频道",CETV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV1.png" group-title="央视频道",CETV1
+http://171.119.205.159:6000/rtp/226.0.2.181:9360
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV2.png" group-title="央视频道",CETV2
+http://171.119.205.159:6000/rtp/226.0.2.69:8464
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CETV4.png" group-title="央视频道",CETV4
+http://171.119.205.159:6000/rtp/226.0.2.70:8472
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
+http://171.119.205.159:6000/rtp/226.0.2.218:9656
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV文化精品.png" group-title="央视付费",CCTV文化精品
+http://171.119.205.159:6000/rtp/226.0.2.219:9664
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
+http://171.119.205.159:6000/rtp/226.0.2.227:9728
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
+http://171.119.205.159:6000/rtp/226.0.2.220:9672
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
+http://171.119.205.159:6000/rtp/226.0.2.224:9704
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
+http://171.119.205.159:6000/rtp/226.0.2.221:9680
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
+http://171.119.205.159:6000/rtp/226.0.2.222:9688
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
+http://171.119.205.159:6000/rtp/226.0.2.223:9696
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
+http://171.119.205.159:6000/rtp/226.0.2.225:9712
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
+http://171.119.205.159:6000/rtp/226.0.2.226:9720
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
+http://171.119.205.159:6000/rtp/226.0.2.216:9640
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
+http://171.119.205.159:6000/rtp/226.0.2.217:9648
+
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
+http://101.31.193.145:4022/rtp/239.253.93.249:6427
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV文化精品.png" group-title="央视付费",CCTV文化精品
+http://101.31.193.145:4022/rtp/239.253.93.175:6439
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
+http://101.31.193.145:4022/rtp/239.253.93.251:6429
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云音乐.png" group-title="央视付费",CCTV风云音乐
+http://101.31.193.145:4022/rtp/239.253.93.253:6431
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
+http://101.31.193.145:4022/rtp/239.253.93.252:6430
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
+http://101.31.193.145:4022/rtp/239.253.93.138:6428
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
+http://101.31.193.145:4022/rtp/239.253.92.131:6113
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV兵器科技.png" group-title="央视付费",CCTV兵器科技
+http://101.31.193.145:4022/rtp/239.253.93.47:6435
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
+http://101.31.193.145:4022/rtp/239.253.93.254:6432
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV女性时尚.png" group-title="央视付费",CCTV女性时尚
+http://101.31.193.145:4022/rtp/239.253.92.144:6114
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
+http://101.31.193.145:4022/rtp/239.253.93.231:6409
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
+http://101.31.193.145:4022/rtp/239.253.93.122:6465
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000516/index.m3u8?
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000518/index.m3u8?
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/天津卫视.png" group-title="卫视频道",天津卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000530/index.m3u8?
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000517/index.m3u8?
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000514/index.m3u8?
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东南卫视.png" group-title="卫视频道",东南卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000519/index.m3u8?
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/广东卫视.png" group-title="卫视频道",广东卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000520/index.m3u8?
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000521/index.m3u8?
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000522/index.m3u8?
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000523/index.m3u8?
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000524/index.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000531/index.m3u8?
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西卫视.png" group-title="卫视频道",江西卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000525/index.m3u8?
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000526/index.m3u8?
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东卫视.png" group-title="卫视频道",山东卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000527/index.m3u8?
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/四川卫视.png" group-title="卫视频道",四川卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000025/index.m3u8?
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000026/index.m3u8?
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/河南卫视.png" group-title="卫视频道",河南卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000027/index.m3u8?
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000030/index.m3u8?
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/广西卫视.png" group-title="卫视频道",广西卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000034/index.m3u8?
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000035/index.m3u8?
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000036/index.m3u8?
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/海南卫视.png" group-title="卫视频道",海南卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000037/index.m3u8?
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青海卫视.png" group-title="卫视频道",青海卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000042/index.m3u8?
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000043/index.m3u8?
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000044/index.m3u8?
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000045/index.m3u8?
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000047/index.m3u8?
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山西卫视.png" group-title="卫视频道",山西卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000053/index.m3u8?
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/河北卫视.png" group-title="卫视频道",河北卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000057/index.m3u8?
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000529/index.m3u8?
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000058/index.m3u8?
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000059/index.m3u8?
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/农林卫视.png" group-title="卫视频道",农林卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000060/index.m3u8?
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000066/index.m3u8?
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/延边卫视.png" group-title="卫视频道",延边卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000073/index.m3u8?
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东教育卫视.png" group-title="卫视频道",山东教育卫视
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000067/index.m3u8?
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/天津卫视.png" group-title="卫视频道",天津卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东南卫视.png" group-title="卫视频道",东南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/广东卫视.png" group-title="卫视频道",广东卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西卫视.png" group-title="卫视频道",江西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东卫视.png" group-title="卫视频道",山东卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/四川卫视.png" group-title="卫视频道",四川卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/河南卫视.png" group-title="卫视频道",河南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/广西卫视.png" group-title="卫视频道",广西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/海南卫视.png" group-title="卫视频道",海南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青海卫视.png" group-title="卫视频道",青海卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山西卫视.png" group-title="卫视频道",山西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/河北卫视.png" group-title="卫视频道",河北卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/延边卫视.png" group-title="卫视频道",延边卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东教育卫视.png" group-title="卫视频道",山东教育卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/纪实人文.png" group-title="数字频道",纪实人文
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000528/index.m3u8?
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/纪实科教.png" group-title="数字频道",纪实科教
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000515/index.m3u8?
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000040/index.m3u8?
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/惊悚悬疑.png" group-title="数字频道",惊悚悬疑
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级综艺.png" group-title="数字频道",超级综艺
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000019/index.m3u8?
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级电影.png" group-title="数字频道",超级电影
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000021/index.m3u8?
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级电视剧.png" group-title="数字频道",超级电视剧
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000022/index.m3u8?
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东北热剧.png" group-title="数字频道",东北热剧
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000092/index.m3u8?
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/炫舞未来.png" group-title="数字频道",炫舞未来
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000098/index.m3u8?
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/潮妈辣婆.png" group-title="数字频道",潮妈辣婆
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000099/index.m3u8?
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品大剧.png" group-title="数字频道",精品大剧
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000100/index.m3u8?
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中国功夫.png" group-title="数字频道",中国功夫
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000101/index.m3u8?
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品体育.png" group-title="数字频道",精品体育
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/爱情喜剧.png" group-title="数字频道",爱情喜剧
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000104/index.m3u8?
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/动作电影.png" group-title="数字频道",动作电影
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000106/index.m3u8?
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/军旅剧场.png" group-title="数字频道",军旅剧场
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000107/index.m3u8?
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品纪录.png" group-title="数字频道",精品纪录
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000109/index.m3u8?
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/军事评论.png" group-title="数字频道",军事评论
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000110/index.m3u8?
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/农业致富.png" group-title="数字频道",农业致富
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000111/index.m3u8?
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品萌宠.png" group-title="数字频道",精品萌宠
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000122/index.m3u8?
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金牌综艺.png" group-title="数字频道",金牌综艺
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000112/index.m3u8?
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/怡伴健康.png" group-title="数字频道",怡伴健康
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000103/index.m3u8?
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/欢乐剧场.png" group-title="数字频道",欢乐剧场
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000091/index.m3u8?
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/古装剧场.png" group-title="数字频道",古装剧场
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000105/index.m3u8?
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/家庭剧场.png" group-title="数字频道",家庭剧场
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000108/index.m3u8?
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑莓电影.png" group-title="数字频道",黑莓电影
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑莓动画.png" group-title="数字频道",黑莓动画
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000096/index.m3u8?
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000074/index.m3u8?
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000039/index.m3u8?
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000061/index.m3u8?
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000069/index.m3u8?
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/优漫卡通.png" group-title="数字频道",优漫卡通
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000070/index.m3u8?
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩青少.png" group-title="数字频道",睛彩青少
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8?
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/哒啵赛事.png" group-title="数字频道",哒啵赛事
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000097/index.m3u8?
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/哒啵电竞.png" group-title="数字频道",哒啵电竞
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000121/index.m3u8?
+
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/纪实人文.png" group-title="数字频道",纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/纪实科教.png" group-title="数字频道",纪实科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/惊悚悬疑.png" group-title="数字频道",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级综艺.png" group-title="数字频道",超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级电影.png" group-title="数字频道",超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/超级电视剧.png" group-title="数字频道",超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东北热剧.png" group-title="数字频道",东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/炫舞未来.png" group-title="数字频道",炫舞未来
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/潮妈辣婆.png" group-title="数字频道",潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品大剧.png" group-title="数字频道",精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中国功夫.png" group-title="数字频道",中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品体育.png" group-title="数字频道",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/爱情喜剧.png" group-title="数字频道",爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/动作电影.png" group-title="数字频道",动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/军旅剧场.png" group-title="数字频道",军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品纪录.png" group-title="数字频道",精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/军事评论.png" group-title="数字频道",军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/农业致富.png" group-title="数字频道",农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/精品萌宠.png" group-title="数字频道",精品萌宠
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金牌综艺.png" group-title="数字频道",金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/怡伴健康.png" group-title="数字频道",怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/欢乐剧场.png" group-title="数字频道",欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/古装剧场.png" group-title="数字频道",古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑莓电影.png" group-title="数字频道",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/黑莓动画.png" group-title="数字频道",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/优漫卡通.png" group-title="数字频道",优漫卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/睛彩青少.png" group-title="数字频道",睛彩青少
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/哒啵赛事.png" group-title="数字频道",哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://182.46.8.141:8018/hls/86/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/重温经典.png" group-title="数字频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/重温经典.png" group-title="数字频道",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东齐鲁.png" group-title="山东频道",山东齐鲁
+http://182.32.204.113:3217/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东综艺.png" group-title="山东频道",山东综艺
+http://182.32.204.113:3217/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东文旅.png" group-title="山东频道",山东文旅
+http://182.32.204.113:3217/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东少儿.png" group-title="山东频道",山东少儿
+http://182.32.204.113:3217/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东体育.png" group-title="山东频道",山东体育
+http://182.32.204.113:3217/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东新闻.png" group-title="山东频道",山东新闻
+http://182.32.204.113:3217/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东农科.png" group-title="山东频道",山东农科
+http://182.32.204.113:3217/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东生活.png" group-title="山东频道",山东生活
+http://182.32.204.113:3217/tsfile/live/1112_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东齐鲁.png" group-title="山东频道",山东齐鲁
+http://112.225.3.229:4022/udp/239.253.254.114:8000
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东综艺.png" group-title="山东频道",山东综艺
+http://112.225.3.229:4022/udp/239.253.254.159:8000
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东文旅.png" group-title="山东频道",山东文旅
+http://112.225.3.229:4022/udp/239.253.254.160:8000
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东少儿.png" group-title="山东频道",山东少儿
+http://112.225.3.229:4022/udp/239.253.254.25:8000
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东体育.png" group-title="山东频道",山东体育
+http://112.225.3.229:4022/udp/239.253.254.22:8000
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东新闻.png" group-title="山东频道",山东新闻
+http://112.225.3.229:4022/udp/239.253.254.23:8000
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东农科.png" group-title="山东频道",山东农科
+http://112.225.3.229:4022/udp/239.253.254.24:8000
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东生活.png" group-title="山东频道",山东生活
+http://112.225.3.229:4022/udp/239.253.254.151:8000
+
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东齐鲁.png" group-title="山东频道",山东齐鲁
+http://182.46.8.141:8018/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东综艺.png" group-title="山东频道",山东综艺
+http://182.46.8.141:8018/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东文旅.png" group-title="山东频道",山东文旅
+http://182.46.8.141:8018/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东少儿.png" group-title="山东频道",山东少儿
+http://182.46.8.141:8018/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东体育.png" group-title="山东频道",山东体育
+http://182.46.8.141:8018/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东新闻.png" group-title="山东频道",山东新闻
+http://182.46.8.141:8018/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东农科.png" group-title="山东频道",山东农科
+http://182.46.8.141:8018/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/山东生活.png" group-title="山东频道",山东生活
+http://182.46.8.141:8018/hls/26/index.m3u8
+
+#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台经济科技.png" group-title="山东频道",烟台经济科技
+http://sunt.mycloudnas.com:18888/udp/239.21.1.205:5002
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台影视.png" group-title="山东频道",烟台影视
+http://sunt.mycloudnas.com:18888/udp/239.21.1.204:5002
+#EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台公共.png" group-title="山东频道",烟台公共
+http://sunt.mycloudnas.com:18888/udp/239.21.1.117:5002
+#EXTINF:-1 tvg-name="烟台新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台新闻.png" group-title="山东频道",烟台新闻
+http://sunt.mycloudnas.com:18888/udp/239.21.1.116:5002
+
+#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台经济科技.png" group-title="山东频道",烟台经济科技
+http://www.xuweihome.vip:2222/udp/239.253.248.249:8000
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台影视.png" group-title="山东频道",烟台影视
+http://www.xuweihome.vip:2222/udp/239.253.248.250:8000
+#EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台公共.png" group-title="山东频道",烟台公共
+http://www.xuweihome.vip:2222/udp/239.253.248.252:8000
+#EXTINF:-1 tvg-name="烟台新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/烟台新闻.png" group-title="山东频道",烟台新闻
+http://www.xuweihome.vip:2222/udp/239.253.248.254:8000
+
+#EXTINF:-1 tvg-name="青岛新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛新闻.png" group-title="山东频道",青岛新闻
+http://182.46.8.141:8018/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="青岛生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛生活.png" group-title="山东频道",青岛生活
+http://182.46.8.141:8018/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="青岛影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛影视.png" group-title="山东频道",青岛影视
+http://182.46.8.141:8018/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="青岛休闲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛休闲.png" group-title="山东频道",青岛休闲
+http://182.46.8.141:8018/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="青岛都市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛都市.png" group-title="山东频道",青岛都市
+http://182.46.8.141:8018/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="青岛教育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/青岛教育.png" group-title="山东频道",青岛教育
+http://182.46.8.141:8018/hls/37/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏新闻.png" group-title="江苏频道",江苏新闻
+http://8.138.7.223/tv/jstv.php?id=jsxw
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏城市.png" group-title="江苏频道",江苏城市
+http://8.138.7.223/tv/jstv.php?id=jscs
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏影视.png" group-title="江苏频道",江苏影视
+http://8.138.7.223/tv/jstv.php?id=jsys
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏综艺.png" group-title="江苏频道",江苏综艺
+http://8.138.7.223/tv/jstv.php?id=jszy
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏体育.png" group-title="江苏频道",江苏体育
+http://8.138.7.223/tv/jstv.php?id=jsty
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏教育.png" group-title="江苏频道",江苏教育
+http://8.138.7.223/tv/jstv.php?id=jsjy
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏国际.png" group-title="江苏频道",江苏国际
+http://8.138.7.223/tv/jstv.php?id=jsgj
+
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏新闻.png" group-title="江苏频道",江苏新闻
+https://025365.xyz:8082/jstv.php?id=jsgg
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏城市.png" group-title="江苏频道",江苏城市
+https://025365.xyz:8082/jstv.php?id=jscs
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏影视.png" group-title="江苏频道",江苏影视
+https://025365.xyz:8082/jstv.php?id=jsys
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏综艺.png" group-title="江苏频道",江苏综艺
+https://025365.xyz:8082/jstv.php?id=jszy
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏教育.png" group-title="江苏频道",江苏教育
+https://025365.xyz:8082/jstv.php?id=jsty
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江苏国际.png" group-title="江苏频道",江苏国际
+https://025365.xyz:8082/jstv.php?id=jsjy
+
+#EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/南京新闻.png" group-title="江苏频道",南京新闻
+http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
+#EXTINF:-1 tvg-name="南京生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/南京生活.png" group-title="江苏频道",南京生活
+http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/南京教科.png" group-title="江苏频道",南京教科
+http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+#EXTINF:-1 tvg-name="南京文旅" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/南京文旅.png" group-title="江苏频道",南京文旅
+http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/南京少儿.png" group-title="江苏频道",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无锡新闻综合.png" group-title="江苏频道",无锡新闻综合
+http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="无锡都市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无锡都市.png" group-title="江苏频道",无锡都市
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无锡经济.png" group-title="江苏频道",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无锡生活.png" group-title="江苏频道",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无锡娱乐.png" group-title="江苏频道",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+
+#EXTINF:-1 tvg-name="扬州新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/扬州新闻.png" group-title="江苏频道",扬州新闻
+http://cm.wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 tvg-name="扬州城市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/扬州城市.png" group-title="江苏频道",扬州城市
+http://cm.wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 tvg-name="扬州生活" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/扬州生活.png" group-title="江苏频道",扬州生活
+http://cm.wshls.homecdn.com/live/8bf.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="上海新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/上海新闻.png" group-title="上海频道",上海新闻
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/上海都市.png" group-title="上海频道",上海都市
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/上海外语.png" group-title="上海频道",上海外语
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/生活时尚.png" group-title="上海频道",生活时尚
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东方财经.png" group-title="上海频道",东方财经
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东方影视.png" group-title="上海频道",东方影视
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/第一财经.png" group-title="上海频道",第一财经
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/动漫秀场.png" group-title="上海频道",动漫秀场
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/欢笑剧场.png" group-title="上海频道",欢笑剧场
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/法治天地.png" group-title="上海频道",法治天地
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/都市剧场.png" group-title="上海频道",都市剧场
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/五星体育.png" group-title="上海频道",五星体育
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东方影视.png" group-title="上海频道",东方影视
+http://z.b.bkpcp.top/m.php?id=shys
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="浙江都市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江都市.png" group-title="浙江频道",浙江都市
+http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江经济.png" group-title="浙江频道",浙江经济
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江教科.png" group-title="浙江频道",浙江教科
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江民生.png" group-title="浙江频道",浙江民生
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江新闻.png" group-title="浙江频道",浙江新闻
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江少儿.png" group-title="浙江频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/浙江国际.png" group-title="浙江频道",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/之江纪录.png" group-title="浙江频道",之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西都市.png" group-title="江西频道",江西都市
+http://php.jdshipin.com/TVOD/iptv.php?id=jxds
+#EXTINF:-1 tvg-name="江西经济" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西经济.png" group-title="江西频道",江西经济
+http://php.jdshipin.com/TVOD/iptv.php?id=jxjjsh
+#EXTINF:-1 tvg-name="江西影视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西影视.png" group-title="江西频道",江西影视
+http://php.jdshipin.com/TVOD/iptv.php?id=jxysly
+#EXTINF:-1 tvg-name="江西公共" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西公共.png" group-title="江西频道",江西公共
+http://php.jdshipin.com/TVOD/iptv.php?id=jxggny
+#EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西少儿.png" group-title="江西频道",江西少儿
+http://php.jdshipin.com/TVOD/iptv.php?id=jxse
+#EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/江西新闻.png" group-title="江西频道",江西新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=jxxw
+
+
+
+
+
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰中文.png" group-title="香港频道",凤凰中文
+https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰中文.png" group-title="香港频道",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰中文.png" group-title="香港频道",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰资讯.png" group-title="香港频道",凤凰资讯
+https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰资讯.png" group-title="香港频道",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰资讯.png" group-title="香港频道",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰香港.png" group-title="香港频道",凤凰香港
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰香港.png" group-title="香港频道",凤凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/凤凰香港.png" group-title="香港频道",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/香港卫视.png" group-title="香港频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/香港卫视.png" group-title="香港频道",香港卫视
+https://stream1.freetv.fun/5a9a3800458fe049f7fbd8554f696e1aa07a0ca063b85ba022eb8222e1a3726f.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/翡翠台.png" group-title="香港频道",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/明珠台.png" group-title="香港频道",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/娱乐新闻.png" group-title="香港频道",娱乐新闻
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无线新闻.png" group-title="香港频道",无线新闻
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无线新闻.png" group-title="香港频道",无线新闻
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线亚剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/香港无线.png" group-title="香港频道",无线亚剧
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBPlus.png" group-title="香港频道",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBPlus.png" group-title="香港频道",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+
+
+
+
+
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾民视.png" group-title="台湾频道",民视
+http://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾民视.png" group-title="台湾频道",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾民视.png" group-title="台湾频道",民视
+https://stream1.freetv.fun/7bb1ca8208f164191d940769eb158e5b3741815e72a2a721441973d7554bf8fb.ctv
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾台视.png" group-title="台湾频道",台视
+http://litv.zapi.us.kg/?id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾台视.png" group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾中视.png" group-title="台湾频道",中视
+http://litv.zapi.us.kg/?id=4gtv-4gtv040
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾中视.png" group-title="台湾频道",中视
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾中视.png" group-title="台湾频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾中视.png" group-title="台湾频道",中视
+https://stream1.freetv.fun/4f689971c6946a132ba4d0841ab588e5e0cbbee93f66e5d29f6da48ac156b4aa.ctv
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾华视.png" group-title="台湾频道",华视
+http://litv.zapi.us.kg/?id=4gtv-4gtv041
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾华视.png" group-title="台湾频道",华视
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾华视.png" group-title="台湾频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台湾华视.png" group-title="台湾频道",华视
+https://stream1.freetv.fun/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.ctv
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视新闻.png" group-title="台湾频道",民视新闻
+http://litv.zapi.us.kg/?id=litv-ftv13
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视新闻.png" group-title="台湾频道",民视新闻
+https://stream1.freetv.fun/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视新闻.png" group-title="台湾频道",民视新闻
+https://stream1.freetv.fun/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台视新闻.png" group-title="台湾频道",台视新闻
+https://stream1.freetv.fun/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/台视新闻.png" group-title="台湾频道",台视新闻
+https://stream1.freetv.fun/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中视新闻.png" group-title="台湾频道",中视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中视新闻.png" group-title="台湾频道",中视新闻
+https://stream1.freetv.fun/f6aee5253b06d566e65c077898aa5039e4797ba8aeb3f91d9e36cec46537f708.ctv
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/华视新闻.png" group-title="台湾频道",华视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/华视新闻.png" group-title="台湾频道",华视新闻
+https://stream1.freetv.fun/2377c01377cfc513d0fdd32bb9ccdaa075c2025505c613826edbcf6640beda46.ctv
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视台湾.png" group-title="台湾频道",民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视台湾.png" group-title="台湾频道",民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv156
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视台湾.png" group-title="台湾频道",民视台湾
+https://stream1.freetv.fun/62fa8ef80def1610b2d44c161bbf16bf86a9519caf4929b91ba72de469f1d2f5.ctv
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视第一.png" group-title="台湾频道",民视第一
+http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/民视第一.png" group-title="台湾频道",民视第一
+https://stream1.freetv.fun/e569092567f20bc9e7300758ef9fb291ef754b15e974bd75e251ff29ae5d0b3e.ctv
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS.png" group-title="台湾频道",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS.png" group-title="台湾频道",TVBS
+https://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS.png" group-title="台湾频道",TVBS
+https://stream1.freetv.fun/d5c23e4d9b80c4b3e6082bc3edddf6fe6c731712b52fb7136407670d2343cffe.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVBS新闻.png" group-title="台湾频道",TVBS新闻
+https://stream1.freetv.fun/e6a6a85f882298330f85cfae2b981957c71582217fddc398d29d877a9410ee5d.m3u8
+#EXTINF:-1 tvg-name="无线卫星新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无线卫星新闻.png" group-title="台湾频道",无线卫星新闻
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线卫星新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/无线卫星新闻.png" group-title="台湾频道",无线卫星新闻
+http://38.64.72.148:80/hls/modn/list/4027/chunklist1.m3u8
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/TVN.png" group-title="台湾频道",TVN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/寰宇新闻.png" group-title="台湾频道",寰宇新闻
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天亚洲.png" group-title="台湾频道",中天亚洲
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天亚洲.png" group-title="台湾频道",中天亚洲
+https://stream1.freetv.fun/1a139a2e00679a462ea11e36cee3ef3ee82ba7668bead6090f63ade3cb38d766.ctv
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天新闻.png" group-title="台湾频道",中天新闻
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天新闻.png" group-title="台湾频道",中天新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv009
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天新闻.png" group-title="台湾频道",中天新闻
+https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.ctv
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天娱乐.png" group-title="台湾频道",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/中天娱乐.png" group-title="台湾频道",中天娱乐
+https://stream1.freetv.fun/6e731a583558b18aeb638aee1225a4c8cdab6f367c51130697829a789f8a6134.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大第一.png" group-title="台湾频道",八大第一
+https://stream1.freetv.fun/bfb696d22a4dbe907c274f06fe09a10fb575b95c99dc50cd2cf9ba3b1c8c5b5b.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大第一.png" group-title="台湾频道",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大第一.png" group-title="台湾频道",八大第一
+https://stream1.freetv.fun/0a69db542fb0ffb28f514894c0121fab614596f933505273a7d0443515e1bba1.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大综合.png" group-title="台湾频道",八大综合
+https://stream1.freetv.fun/0f49846d96cdc3713a2927b6371a8b8b03ac41098a10253f572bd18f59d4e085.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大综合.png" group-title="台湾频道",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大综合.png" group-title="台湾频道",八大综合
+https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大戏剧.png" group-title="台湾频道",八大戏剧
+https://stream1.freetv.fun/c7f872f6da5871c2bf37d3829e4aed2fc681e8f29d9b0f5bda748557979171c0.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大戏剧.png" group-title="台湾频道",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/八大戏剧.png" group-title="台湾频道",八大戏剧
+https://stream1.freetv.fun/decc2d4faebf04edfebbeffda83625e3e1d1e315706de1a33d76cc057ace2c4c.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东森新闻.png" group-title="台湾频道",东森新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东森新闻.png" group-title="台湾频道",东森新闻
+https://stream1.freetv.fun/27238a4dfef13f9989c8ed00588f93f244e815902d6d5c42241767e1714c0bb1.ctv
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东森财经.png" group-title="台湾频道",东森财经
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东森财经.png" group-title="台湾频道",东森财经
+https://stream1.freetv.fun/bc33d7169cd52d0a4f2d49ce41d3662095780836aa24d9388de205a088013ef0.ctv
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/东森超视.png" group-title="台湾频道",东森超视
+rtmp://f13h.mine.nu:1935/sat/tv331
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/非凡新闻.png" group-title="台湾频道",非凡新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/非凡新闻.png" group-title="台湾频道",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/美亚电影.png" group-title="台湾频道",美亚电影
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/靖天电影.png" group-title="台湾频道",靖天电影
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/靖天电影.png" group-title="台湾频道",靖天电影
+http://litv.zapi.us.kg/?id=4gtv-4gtv061
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/靖天电影.png" group-title="台湾频道",靖天电影
+https://stream1.freetv.fun/8e0ac9287b911b9963d9c655a1b56ad34863f00efe244a290c0d7da9df86da3a.ctv
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华日韩.png" group-title="台湾频道",龙华日韩
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华日韩.png" group-title="台湾频道",龙华日韩
+http://litv.zapi.us.kg/?id=litv-longturn11
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华日韩.png" group-title="台湾频道",龙华日韩
+https://stream1.freetv.fun/519623f1b718b31bee59e8f2cb97b9d5d03ca2b8bbd0bbe260985cca4530c804.ctv
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华经典.png" group-title="台湾频道",龙华经典
+http://litv.zapi.us.kg/?id=litv-longturn21
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华经典.png" group-title="台湾频道",龙华经典
+https://stream1.freetv.fun/5f51a5fb46662fa68a1abe657f86a57d78705f793c2fbab11d9f685e7a5a6974.ctv
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华电影.png" group-title="台湾频道",龙华电影
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华电影.png" group-title="台湾频道",龙华电影
+http://litv.zapi.us.kg/?id=litv-longturn03
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华电影.png" group-title="台湾频道",龙华电影
+https://stream1.freetv.fun/5c51685fdfc55a835ff5b6ebb0721611dece607aa224be274bd9d8ab05a1cfe4.ctv
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华戏剧.png" group-title="台湾频道",龙华戏剧
+http://litv.zapi.us.kg/?id=litv-longturn18
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华戏剧.png" group-title="台湾频道",龙华戏剧
+https://stream1.freetv.fun/7bad708bfd11262c14d5bca67c9c89ece14d215b81949ccf1c3c01a49e6fc108.ctv
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华偶像.png" group-title="台湾频道",龙华偶像
+http://litv.zapi.us.kg/?id=litv-longturn12
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/龙华偶像.png" group-title="台湾频道",龙华偶像
+https://stream1.freetv.fun/eaf4acb212690a3a5d4d587aecaf7cd1a0d98d91763fe65a82d7294841cf75a7.ctv
+#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/amc电影.png" group-title="台湾频道",amc电影
+https://litv.zapi.us.kg/?id=4gtv-4gtv017
+#EXTINF:-1 tvg-name="amc电影" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/amc电影.png" group-title="台湾频道",amc电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://git.acwing.com/intersony/zb/-/raw/main/TVLOGO/动物星球.png" group-title="台湾频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
